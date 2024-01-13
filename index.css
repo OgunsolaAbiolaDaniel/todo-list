@@ -1,0 +1,20 @@
+#time{
+    width:300px;
+}
+#tasks{
+     width:300px;
+}
+button{
+    padding:5px 50px;
+}
+.topic{
+    display: flex;
+    gap:150px;
+}
+.topic > li{
+    list-style:none;
+
+}
+.inserted{
+    list-style: none;
+}
